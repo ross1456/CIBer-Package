@@ -25,7 +25,7 @@ type the following line in terminal to install
 pip install git+https://github.com/hlin117/mdlp-discretization
 ```
 ## Solution 2:
-if you don't want to install c/c++ tools, refer to author [hlin117's repository](https://github.com/hlin117/mdlp-discretization/tree/master/mdlp) for MDLP 
+if you don't want to install c/c++ tools, refer to author [hlin117's repository](https://github.com/hlin117/mdlp-discretization/tree/master/mdlp) for MDLP class in the .py file
 
 # Data Requirements
 
