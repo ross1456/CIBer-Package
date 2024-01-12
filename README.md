@@ -11,13 +11,13 @@ This document mainly explain the important and practical functions in **CIBer.py
 The **MDLP** discretization method has been disabled, you need to install package manually since it requires additional tools.
 ## Solution:
 Step1: <br />
-## window users
+### window users
 install visual studio community, and then install [**Microsoft C++ Build Tools**](https://visualstudio.microsoft.com/visual-cpp-build-tools/) for C/C++ related packages
 
-## macos users
+### macos users
 type the following line in terminal to install the **Command Line Tools package**
 > xcode-select --install
-
+<br />
 Step2: <br />
 type the following line in terminal to install
 ```
