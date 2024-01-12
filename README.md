@@ -16,11 +16,12 @@ install visual studio community, and then install [**Microsoft C++ Build Tools**
 
 ### macos users
 type the following line in terminal to install the **Command Line Tools package**
-> xcode-select --install
+'xcode-select --install'
 <br />
 Step2:
 <br />
 type the following line in terminal to install
+
 ```
 pip install git+https://github.com/hlin117/mdlp-discretization
 ```
