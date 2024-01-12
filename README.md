@@ -12,7 +12,9 @@ The **MDLP** discretization method has been disabled, since it requires addition
 # Solutions
 ## First way:
 install using pip
-`pip install git+https://github.com/hlin117/mdlp-discretization`
+```
+pip install git+https://github.com/hlin117/mdlp-discretization
+```
 ## Second way:
 ## window users
 1. install visual studio community, and then install [**Microsoft C++ Build Tools**](https://visualstudio.microsoft.com/visual-cpp-build-tools/) for C/C++ related packages
