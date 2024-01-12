@@ -8,7 +8,7 @@ This is the user guide for Comonotone-Independence Bayesian Classifier (CIBer). 
 This document mainly explain the important and practical functions in **CIBer.py** and **CIBer_Engineering.py**. Lastly, the **CIBer_Bankchurner.ipynb** gives a simple but illuminating example on CIBer with the use of [Bankchurner](https://www.kaggle.com/code/thomaskonstantin/bank-churn-data-exploration-and-churn-prediction/data) dataset by Thomas Konstantin. Please refer to original author [Kaiser's Repository](https://github.com/kaiser1999/CIBer) for details.
 
 # Remarks
-The **MDLP** discretization method needs you to install package manually since it needs additional tools.
+The **MDLP** discretization method has been disabled, you need to install package manually since it requires additional tools.
 ## Solution:
 Step1: <br />
 ## window users
