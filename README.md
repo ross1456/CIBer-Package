@@ -8,24 +8,12 @@ This is the user guide for Comonotone-Independence Bayesian Classifier (CIBer). 
 This document mainly explain the important and practical functions in **CIBer.py** and **CIBer_Engineering.py**. Lastly, the **CIBer_Bankchurner.py** gives a simple but illuminating example on CIBer with the use of [Bankchurner](https://www.kaggle.com/code/thomaskonstantin/bank-churn-data-exploration-and-churn-prediction/data) dataset by Thomas Konstantin.
 
 # Remarks
-The **MDLP** discretization method has been disabled, since it requires additional package. 
-# Solutions
-## First way:
+The **MDLP** discretization method needs you to install package manually
+## Solution:
 install using pip
 ```
 pip install git+https://github.com/hlin117/mdlp-discretization
 ```
-## Second way:
-## window users
-1. install visual studio community, and then install [**Microsoft C++ Build Tools**](https://visualstudio.microsoft.com/visual-cpp-build-tools/) for C/C++ related packages
-2. type the following line in terminal to install
-> pip install mdlp
-
-## macos users
-1. type the following line in terminal to install the **Command Line Tools package**
-> xcode-select --install
-2. type the following line in terminal to install
-> pip install mdlp
 
 # Data Requirements
 
