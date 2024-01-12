@@ -1,5 +1,5 @@
 # CIBer
-This package is an implementation of:
+This package is an implementation of:<br />
 Paper: Comonotone-Independence Bayes classifier (CIBer)  <br />
 Author: Yongzhao CHEN, Ka Chun CHEUNG, Nok Sang FAN, Suresh SETHI, and Sheung Chi Phillip YAM
 
