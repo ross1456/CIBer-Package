@@ -1,11 +1,11 @@
 # CIBer
-
+This package is an implementation of:
 Paper: Comonotone-Independence Bayes classifier (CIBer)  <br />
 Author: Yongzhao CHEN, Ka Chun CHEUNG, Nok Sang FAN, Suresh SETHI, and Sheung Chi Phillip YAM
 
 This is the user guide for Comonotone-Independence Bayesian Classifier (CIBer). CIBer is a supervised learning model which deals with multi-class classification tasks. The continuous feature variables are discretized and those categorical ones are encoded via the proposed **Joint Encoding**. 
 
-This document mainly explain the important and practical functions in **CIBer.py** and **CIBer_Engineering.py**. Lastly, the **CIBer_Bankchurner.py** gives a simple but illuminating example on CIBer with the use of [Bankchurner](https://www.kaggle.com/code/thomaskonstantin/bank-churn-data-exploration-and-churn-prediction/data) dataset by Thomas Konstantin.
+This document mainly explain the important and practical functions in **CIBer.py** and **CIBer_Engineering.py**. Lastly, the **CIBer_Bankchurner.ipynb** gives a simple but illuminating example on CIBer with the use of [Bankchurner](https://www.kaggle.com/code/thomaskonstantin/bank-churn-data-exploration-and-churn-prediction/data) dataset by Thomas Konstantin. Please refer to [Kaiser Repository](https://github.com/kaiser1999/CIBer) for details.
 
 # Remarks
 The **MDLP** discretization method needs you to install package manually
