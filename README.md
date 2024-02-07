@@ -37,7 +37,7 @@ CIBer deals with multi-class classification tasks with numerical or discrete (bu
 # CIBer.py
 
 ## CIBer
-To CIBer:
+To use CIBer:
 ```
 from CIBer import CIBer
 ```
