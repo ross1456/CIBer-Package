@@ -22,10 +22,13 @@ Step2:
 type the following line in terminal to install
 
 ```
-pip install git+https://github.com/hlin117/mdlp-discretization
+pip install mdlp-discretization
 ```
 ## Solution 2:
-if you don't want to install c/c++ tools, refer to author [hlin117's repository](https://github.com/hlin117/mdlp-discretization/tree/master/mdlp) for MDLP class in the .py file
+```
+pip install git+https://github.com/hlin117/mdlp-discretization
+```
+refer to author [hlin117's repository](https://github.com/hlin117/mdlp-discretization/tree/master/mdlp)
 
 # Data Requirements
 
@@ -34,6 +37,10 @@ CIBer deals with multi-class classification tasks with numerical or discrete (bu
 # CIBer.py
 
 ## CIBer
+To CIBer:
+```
+from CIBer import CIBer
+```
 
 > init(self, cont_col=[], asso_method='modified', min_asso=0.95, alpha=1, disc_method="norm", joint_encode=True, **kwargs)
 
